@@ -1,0 +1,58 @@
+.profile {
+    margin-bottom: 50px;
+}
+
+.detalis,
+.image_user {
+    border: 2px solid lightgreen;
+    border-radius: 4%;
+    display: table-cell;
+    height: 270px;
+    padding: 30px;
+    position: relative;
+    top: 40px;
+}
+
+.menu-box-menu,
+.scnd-font-color {
+    list-style: none;
+}
+
+.menu-box-menu li {
+    margin-bottom: 20px;
+    border-bottom: 1px solid;
+}
+
+.menu-box-menu li:last-child {
+    border-bottom: none;
+}
+
+.menu-box-tab {
+    display: inline-flex;
+}
+
+.menu-box-number {
+    padding: 0px 7px;
+    background-color: lightgreen;
+    width: 25px;
+    height: 25px;
+    margin: 0px 6px;
+    border-radius: 50%;
+    color: white;
+}
+
+.profile-picture img {
+    border-radius: 50%;
+    width: 230px;
+    margin-left: 50px;
+}
+
+.user-name {
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.scnd-font-color li {
+    font-weight: 600;
+    font-size: 20px;
+}
